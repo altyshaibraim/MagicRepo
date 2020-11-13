@@ -1,0 +1,8 @@
+1. Create Project on Desktop.
+2. Open Project on Atom.
+3. Modify it.
+4. Push it to the website.
+
+If Git is not allowing to login,
+-initialize publishing with GitHub.
+-After staging area appears, commit.
